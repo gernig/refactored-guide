@@ -1,0 +1,24 @@
+[02:41:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:41:49] [ServerMain/INFO]: Loaded 1461 recipes
+[02:41:49] [ServerMain/INFO]: Loaded 1574 advancements
+[02:41:49] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[02:41:49] [Server thread/INFO]: Loading properties
+[02:41:49] [Server thread/INFO]: Default game type: SURVIVAL
+[02:41:49] [Server thread/INFO]: Generating keypair
+[02:41:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:41:49] [Server thread/INFO]: Using epoll channel type
+[02:41:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:41:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:41:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:41:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:41:49] [Server thread/INFO]: Preparing level "world"
+[02:41:50] [Server thread/INFO]: Loading 0 persistent chunks...
+[02:41:50] [Server thread/INFO]: Preparing spawn area: 100%
+[02:41:50] [Server thread/INFO]: Time elapsed: 18 ms
+[02:41:50] [Server thread/INFO]: Done (0.336s)! For help, type "help"
+[02:42:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:44:04] [Server thread/INFO]: Yumalala[/127.171.5.143:36789] logged in with entity id 166 at (-322.00410753892373, 94.0, -1505.5015048317853)
+[02:44:04] [Server thread/INFO]: Yumalala joined the game
+[02:45:33] [Server thread/INFO]: Villager cyx['Villager'/158, l='ServerLevel[world]', x=-303.70, y=98.00, z=-1536.70] died, message: 'Villager was squished too much'
+[02:59:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-334, y=97, z=-1593} ja{x=-337, y=95, z=-1598}
+[02:59:33] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-334, y=97, z=-1593} ja{x=-337, y=95, z=-1598}
